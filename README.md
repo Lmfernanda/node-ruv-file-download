@@ -118,6 +118,4 @@ This project is open-source and available under the **MIT License**.
 ## 👩‍💻 Author
 
 **Maria Fernanda Lopez**  
-🏋️ Software Developer  
-📧 [your-email@example.com](mailto:your-email@example.com)  
-🔗 [LinkedIn](https://linkedin.com/in/your-profile)  
+🏋️ Forest Engineer
